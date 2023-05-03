@@ -1,6 +1,7 @@
-# instalacionwordpress
-1.
+# instalacion wordpress
+1.Abrimos la terminal y utilizamos el siguiente codigo
 ![P1](https://user-images.githubusercontent.com/122264667/235853231-fb640ae7-2ab8-411b-be86-f79ddf5a09fe.png)
+2. Una vez  instalado en la maquina virtual,
 ![P2 1](https://user-images.githubusercontent.com/122264667/235853234-a483188a-4fd3-4aad-9ce1-577143db22cc.png)
 ![P2 2](https://user-images.githubusercontent.com/122264667/235853242-0650381e-ae07-4388-b34f-8a8e37822fa2.png)
 ![P2](https://user-images.githubusercontent.com/122264667/235853251-08af1844-7583-4d2d-a3a5-19a1b1a686f9.png)
