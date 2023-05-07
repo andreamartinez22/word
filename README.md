@@ -18,6 +18,8 @@
 
 ![P4](https://user-images.githubusercontent.com/122264667/235853276-51b8b0d5-35ad-47d1-855c-a1f53d95f549.png)
 7.Y  proporcionamos más información. 
-![P5](https://user-images.githubusercontent.com/122264667/235853285-94d66acf-3e6c-472a-a4ab-a19ba82d369f.png)
 
-![P6](https://user-images.githubusercontent.com/122264667/235853293-c16d0edb-92c3-4f01-8809-6905f2aef0d9.png)
+![P5](https://user-images.githubusercontent.com/122264667/235853285-94d66acf-3e6c-472a-a4ab-a19ba82d369f.png)
+8.Una vez establecida toda nuestra información , ya podemos comenzar a realizar nuestro blog con wordpress.
+
+![P6](https://user-images.githubusercontent.com/122264667/235853293-c16d0edb-92c3-4f01-8809-6905f2aef0d9.png)h
